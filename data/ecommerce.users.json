@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "663a4e46dfddf24fe4b16dad"
+  },
+  "role": 0,
+  "cart": [],
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$74R3kNHqsvr4uVHUkdJd4enApcu21wf55ZrHBlbQbdTy.qQhimw/u",
+  "createdAt": {
+    "$date": "2024-05-07T15:52:38.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-07T15:52:38.915Z"
+  },
+  "__v": 0
+}
+]
